@@ -13,4 +13,4 @@ Este é um projeto prático focado na construção de aplicações web interativ
 * Extrato visual com identificação intuitiva por cores (Verde para entrada, Vermelho para saída).
 
 ## 🔗 Acesso ao Projeto
-*(Em breve colocarei o link do site ao vivo aqui)*
+*(Clique aqui para testar a aplicação: [Acessar o Painel Financeiro 🚀](https://zcom2503-art.github.io/painel-financeiro/))*
